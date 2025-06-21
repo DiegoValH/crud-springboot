@@ -1,5 +1,5 @@
 """
-Robô: 
+Robô: EJUSUS 1.0
 Descrição: Robô em Python que se conecta ao banco H2 do sistema Spring Boot,
 varre as tabelas principais (student, professor, address), detecta inconsistências!
 e exporta um relatório Excel simples.
@@ -23,7 +23,7 @@ Requisitos:
 - Java instalado
 - Caminho para o driver H2 (.jar) configurado corretamente
 
-Autor: Diego Valencia
+Autor: ING. Diego Valencia
 """
 
 import pandas as pd
