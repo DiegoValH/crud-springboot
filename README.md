@@ -89,6 +89,7 @@ mvn test
 Arquivo: data/dados.py
 
 O Robo conecta-se ao banco H2, analisa as tabelas principais (student, professor, address) e gera um relatório .xlsx com possíveis inconsistências e estatísticas.
+Com acesso a uma base de dados robusta, posso realizar análises estatísticas avançadas e desenvolver dashboards personalizados em Python, voltados à visualização de métricas financeiras, operacionais ou educacionais, integrando fontes diversas com foco em performance e estratégia.
 
 Requisitos:
 - Python 3
@@ -96,7 +97,10 @@ Requisitos:
 - JayDeBeAPI
 - Driver JDBC do H2
 
----
+## 📊 Arquitetura de processamento e análise de dados em nuvem
+https://lucid.app/lucidspark/f024b593-f07d-4b97-9a08-904ac5c4f306/edit?invitationId=inv_be6f880c-5b18-4431-bc99-865f9536f9c2&page=0_0
+
+
 
 ## 📄 Status do Projeto
 
